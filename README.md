@@ -6,4 +6,4 @@ The pipeline generates synthetic minimap training data, builds YOLO-format datas
 The repository is script-first (src/) for reproducibility, with a lightweight notebook report for results and visualization.
 
 
-https://www.coursera.org/learn/introduction-computer-vision-watson-opencv
+Computer_vision_coursera_IBM: https://www.coursera.org/learn/introduction-computer-vision-watson-opencv
