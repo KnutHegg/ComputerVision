@@ -7,3 +7,6 @@ The repository is script-first (src/) for reproducibility, with a lightweight no
 
 
 Computer_vision_coursera_IBM: https://www.coursera.org/learn/introduction-computer-vision-watson-opencv
+
+
+Computer_Vision_Szeliski_Exercises: Exercises from Computer Vision: Algorithms and Applications, Book by Richard Szeliski
