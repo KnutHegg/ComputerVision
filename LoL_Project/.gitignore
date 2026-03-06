@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Model weights and checkpoints
+*.pt
+*.onnx
+*.engine
+weights/
+
+# Training and inference artifacts
+runs/
+results/
+raw_data/
+
+# Large/generated dataset artifacts
+datasets/icons/
+datasets/synthetic_minimaps/
+datasets/minimap_dataset/images/
+datasets/minimap_dataset/labels/
+datasets/**/*.cache
+
+# Keep portable dataset config
+!datasets/minimap_dataset/
+!datasets/minimap_dataset/dataset.yaml
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+

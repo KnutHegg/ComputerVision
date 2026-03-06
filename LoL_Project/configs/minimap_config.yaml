@@ -1,0 +1,26 @@
+class_names:
+  - ally_Ahri
+  - ally_Ashe
+  - ally_Darius
+  - ally_Hecarim
+  - ally_Khazix
+  - enemy_Nasus
+  - enemy_Sejuani
+  - enemy_Warwick
+  - enemy_XinZhao
+  - enemy_Ziggs
+
+inference:
+  window_title: "League of Legends (TM) Client"
+  conf_threshold: 0.60
+  minimap_w: 300
+  minimap_h: 300
+  gamma: 0.82
+  contrast: 0.77
+  brightness: -15
+  crop_offsets:
+    left: 32
+    top: 32
+    right: 16
+    bottom: 11
+

@@ -1,0 +1,7 @@
+path: datasets/minimap_dataset
+train: images/train
+val: images/val
+test: images/test
+
+nc: 10
+names: ["ally_Ahri", "ally_Ashe", "ally_Darius", "ally_Hecarim", "ally_Khazix", "enemy_Nasus", "enemy_Sejuani", "enemy_Warwick", "enemy_XinZhao", "enemy_Ziggs"]
