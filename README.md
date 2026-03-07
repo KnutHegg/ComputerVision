@@ -19,3 +19,5 @@ Computer_vision_coursera_IBM: https://www.coursera.org/learn/introduction-comput
 
 
 Computer_Vision_Szeliski_Exercises: Exercises from Computer Vision: Algorithms and Applications, Book by Richard Szeliski
+
+Augmentation: Typical data augmentation techniques, from https://medium.com/data-science-collective/what-is-image-augmentation-4d31dcb3e1cc
